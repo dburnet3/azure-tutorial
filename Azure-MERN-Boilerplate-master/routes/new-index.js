@@ -3,7 +3,7 @@ var express = require('express');
 var router = express.Router();
 
 var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb+srv://dburnet3:reneeb12@cluster0.zlhzx.azure.mongodb.net/Cluster0?retryWrites=true&w=majority";
+var url = "mongodb+srv://dburnet3:Spelman12!@@cluster0.zlhzx.azure.mongodb.net/Cluster0?retryWrites=true&w=majority";
 
 
 router.get('/', (req, res, next) => {
