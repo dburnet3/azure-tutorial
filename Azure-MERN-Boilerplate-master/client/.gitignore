@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#routes
+/routes/new-index.js/
+
 # production
 #/build
 
